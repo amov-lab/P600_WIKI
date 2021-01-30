@@ -11,7 +11,7 @@
 #
 # All configuration values have a default; values that are commented out
 # serve to show the default.
-
+//做点啥改动呢？今年过年回不回家？过年留守玩固定翼啊！
 import sys
 import os
 
